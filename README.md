@@ -17,3 +17,6 @@ I'm a web frontend developer from Japan.
 ## DB and Dev Tools etc
 
 <img src="https://skillicons.dev/icons?i=tailwind,supabase,npm,git,github,vercel,vscode,figma,pr,ai,ps,discode" /> <br /><br />
+
+## Hobby
+🎧listen to music, 💿DJing, 🎵compose music, 👣walking, 🖼️go to an art museum, 🐈play with my cat, 🧑‍🧑‍🧒spend time with my family
