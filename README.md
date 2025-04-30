@@ -22,7 +22,7 @@ I'm a web frontend developer from Japan.
 🎧listen to music<br />
 💿DJing<br />
 🎵compose music<br />
-👣walking<br />
 🖼️go to an art museum<br />
 🐈play with my cat<br />
-🧑‍🧑‍🧒spend time with my family
+🧑‍🧑‍🧒spend time with my family<br />
+👣walking
